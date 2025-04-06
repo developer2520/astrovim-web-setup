@@ -1,4 +1,4 @@
-# AstroNvim Template
+# AstroNvim Template by Abboskhonov
 
 **NOTE:** This is for AstroNvim v5+
 
@@ -24,7 +24,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://github.com/developer2520/astrovim-web-setup ~/.config/nvim
 ```
 
 #### Start Neovim
@@ -32,3 +32,5 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
 ```shell
 nvim
 ```
+
+
